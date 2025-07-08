@@ -18,7 +18,7 @@ function Education() {
               title="University of Jember"
               degree="Information Systems"
               date="Aug 2023 - Aug 2026"
-              gpa="3.95"
+              gpa="3.93"
               description="Currently pursuing a Bachelor's in Information Systems. Passionate about system analysis, fullstack development, and AI. Serving as AI Lab Assistant and CFO of digital tech projects with national-level funding."
             />
           </Col>
